@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Roimer Esteban Ortiz!
 <a href='https://www.linkedin.com/in/roimerortizc/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
-Software engineer with experience in developing Azure cloud solutions. Experienced in .NET, C#, Angular, TypeScript, JavaScript and DevOps tools (Azure DevOps, GitLab). Familiar with JAVA using Spring Boot as Framework and Node.js with Express.
+Software engineer based in Medellin  - Colombia with experience in developing Azure cloud solutions. Experienced in .NET, C#, Angular, TypeScript, JavaScript and DevOps tools (Azure DevOps, GitLab). Familiar with JAVA using Spring Boot as Framework and Node.js with Express.
 Passionate about creating robust, scalable and secure applications, applying design patterns and development best practices, unit testing and security scans.
 I look for opportunities to grow and challenge to create advanced, robust and scalable solutions that drive team and company success.
 <br/>
