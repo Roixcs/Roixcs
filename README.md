@@ -6,7 +6,7 @@ Passionate about creating robust, scalable, and secure applications, applying de
 I look for opportunities to grow and challenges to create advanced, robust, scalable solutions that drive team and company success.
 <br/>
 <br/>
-<p><em>Software Engineer at <a href="https://www.tdea.edu.co/">TdeA - Tecnológico de Antioquia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Engineer at <a href="https://www.tdea.edu.co/">TdeA - Tecnológico de Antioquia</a>
 </br>
 Software Engineer at <a href="https://www.concentrix.com/about/">Concentrix</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -33,6 +33,8 @@ Software Engineer at <a href="https://www.concentrix.com/about/">Concentrix</a><
 <a href="https://portal.azure.com" target="_blank"> <img src="https://raw.githubusercontent.com/roixcs/github_readme_icons/main/azure.svg" align="left" alt="Azure" height='42px'/> </a>
 <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://raw.githubusercontent.com/roixcs/github_readme_icons/main/dotnet.svg" align="left" alt=".NET" height='42px'/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/roixcs/github_readme_icons/main/sql-database.svg" align="left" alt="SQL" height='42px'/> </a>
+<br>
+<br/>
 <a href="https://developer.hashicorp.com/terraform" target="_blank"> <img src="https://raw.githubusercontent.com/roixcs/github_readme_icons/main/terraform.svg" align="left" alt="Terraform" height='42px'/> </a>
 <a href="https://ionicframework.com/" target="_blank"> <img src="https://raw.githubusercontent.com/roixcs/github_readme_icons/main/ionic.svg" align="left" alt="Ionic" height='42px'/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/roixcs/github_readme_icons/main/git-scm.svg" align="left" alt="git" height='42px'/> </a>
